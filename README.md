@@ -20,7 +20,6 @@
 	* commons-httpclient
 	* com.google.guava
 	* javax.mail
-	* dom4j
 	* log4j
 	* com.unboundid
 
